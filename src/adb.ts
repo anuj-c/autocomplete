@@ -1,6 +1,7 @@
 const installOptions: Fig.Option[] = [
   {
     name: "-l",
+    
     description: "Forward-lock the app",
   },
   {
